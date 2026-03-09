@@ -1,0 +1,1 @@
+{application,run_length_encoding,[{modules,['Elixir.RunLengthEncoding']},{optional_applications,[]},{applications,[kernel,stdlib,elixir,logger]},{description,"run_length_encoding"},{registered,[]},{vsn,"0.1.0"}]}.
